@@ -1,10 +1,10 @@
 package S2_Inheritance;
-//Sub/Child class
-public class Son extends Father
+//sub class 2
+public class Son2 extends Father
 {
-    public void mobile()
+    public void laptop()
     {
-        System.out.println("Mobile: Samsung");
+        System.out.println("Laptop");
     }
 
 //    public void car()
