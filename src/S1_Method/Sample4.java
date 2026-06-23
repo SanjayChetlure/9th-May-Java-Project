@@ -14,6 +14,7 @@ public class Sample4
           s4.m6();
           s4.m6();
 
+
      //1: Sample4  -> className  -> as a dataType
      //2: s4 -> objectName -> use to identify/refer object
      //3: new -> keyword -> use to create blank/empty object
