@@ -1,0 +1,11 @@
+package S2_Access_Specifier1;
+
+public class Demo2
+{
+    public static void main(String[] args)
+    {
+        Demo1 d1=new Demo1();
+        d1.m4();
+        System.out.println(d1.num4);
+    }
+}
