@@ -1,4 +1,4 @@
-package PolyMorphism;
+package S2_PolyMorphism;
 // parent/Base/Super class
 public class Father
 {

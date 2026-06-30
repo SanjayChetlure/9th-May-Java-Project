@@ -1,4 +1,4 @@
-package PolyMorphism;
+package S2_PolyMorphism;
 
 public class Sample1
 {

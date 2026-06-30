@@ -1,4 +1,4 @@
-package PolyMorphism;
+package S2_PolyMorphism;
 
 //Sub/Child class
 public class Son extends Father

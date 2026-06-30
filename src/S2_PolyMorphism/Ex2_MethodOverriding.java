@@ -1,4 +1,4 @@
-package PolyMorphism;
+package S2_PolyMorphism;
 public class Ex2_MethodOverriding
 {
     public static void main(String[] args)
