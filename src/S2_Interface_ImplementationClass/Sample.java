@@ -26,4 +26,9 @@ public class Sample implements I1, I2
         System.out.println("method m4 from I2 completed in IC");
     }
 
+    public void m5()
+    {
+        System.out.println("Method m5 from I1, I2 competed in IC");
+    }
+
 }
