@@ -1,6 +1,6 @@
 package S2_Interface_ImplementationClass;
 
-public class TestRunningDefaultMethodsInInterface
+public class Ex3_TestRunningDefaultMethodsInInterface
 {
     public static void main(String[] args) {
 

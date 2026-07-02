@@ -1,6 +1,6 @@
 package S2_Interface_ImplementationClass;
 
-public class TestDemo1
+public class Ex1_TestDemo2_Interface_IC_Example
 {
     public static void main(String[] args)
     {

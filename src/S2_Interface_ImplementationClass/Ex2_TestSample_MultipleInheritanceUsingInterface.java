@@ -1,6 +1,6 @@
 package S2_Interface_ImplementationClass;
 
-public class TestSample
+public class Ex2_TestSample_MultipleInheritanceUsingInterface
 {
     //Example of multiple inheritance using interface
     public static void main(String[] args) {

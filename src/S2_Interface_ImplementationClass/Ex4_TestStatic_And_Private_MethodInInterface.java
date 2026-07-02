@@ -1,5 +1,5 @@
 package S2_Interface_ImplementationClass;
-public class TestStaticMethodInInterface
+public class Ex4_TestStatic_And_Private_MethodInInterface
 {
     public static void main(String[] args)
     {
