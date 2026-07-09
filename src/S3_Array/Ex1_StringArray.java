@@ -19,6 +19,9 @@ public class Ex1_StringArray
         System.out.println(ar[2]);         //ganesh
         System.out.println(ar.length);     //5
 
+        //reinitialize
+        ar[3]="SURESH";
+
         System.out.println("-----print all data from string array-----");
         //           5<=4
         for(int i=0; i<=4; i++)
@@ -31,6 +34,12 @@ public class Ex1_StringArray
         for(int i=0; i<=ar.length-1; i++)
         {                      //4
             System.out.println(ar[i]);      //mahesh ramesh ganesh suresh naresh
+        }
+
+        System.out.println("----print all data using for each loop----");
+        for(String s1:ar)
+        {
+            System.out.println(s1);
         }
 
     }
