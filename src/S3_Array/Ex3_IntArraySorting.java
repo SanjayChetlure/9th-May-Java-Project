@@ -1,5 +1,4 @@
 package S3_Array;
-
 import java.util.Arrays;
 
 public class Ex3_IntArraySorting
