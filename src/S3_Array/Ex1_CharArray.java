@@ -4,6 +4,7 @@ public class Ex1_CharArray
     public static void main(String[] args) {
 
     char [] ar=new char[5];
+//        char ar []=new char[5];
     ar[0]='B';
     ar[1]='A';
     ar[2]='E';
