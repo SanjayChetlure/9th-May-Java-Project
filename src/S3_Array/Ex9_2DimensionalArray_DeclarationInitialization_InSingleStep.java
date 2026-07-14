@@ -1,6 +1,6 @@
 package S3_Array;
 
-public class Ex9_Ex9_2DimensionalArray_DeclarationInitialization_InSingleStep
+public class Ex9_2DimensionalArray_DeclarationInitialization_InSingleStep
 {
     public static void main(String[] s1)
     {

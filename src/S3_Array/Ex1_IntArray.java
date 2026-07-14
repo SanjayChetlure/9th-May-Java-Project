@@ -4,12 +4,12 @@ public class Ex1_IntArray
 {
     public static void main(String[] args) {
 
-            int [] rollNum=new int[4];     //index 0 to 3
+        int [] rollNum=new int[4];     //index 0 to 3
 
-            rollNum[0]=30;
-            rollNum[1]=10;
-            rollNum[2]=40;
-            rollNum[3]=20;
+        rollNum[0]=30;
+        rollNum[1]=10;
+        rollNum[2]=40;
+        rollNum[3]=20;
 
           System.out.println(rollNum.length);          //4
         System.out.println(rollNum[2]);               //40
