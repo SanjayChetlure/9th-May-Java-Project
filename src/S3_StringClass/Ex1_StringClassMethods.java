@@ -34,7 +34,7 @@ public class Ex1_StringClassMethods
         System.out.println(s5.isBlank());                //ignore space char
         System.out.println(s1.charAt(7));      //y
 
-
+        System.out.println("------");
 
 
 
