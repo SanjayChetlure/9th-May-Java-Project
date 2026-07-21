@@ -18,7 +18,5 @@ public class Ex4_AlternateSolutionWithMsg
 
         System.out.println("hi");
 
-
-
     }
 }
