@@ -9,3 +9,5 @@ public final class Demo1
         System.out.println(num1*num1);
     }
 }
+
+
