@@ -22,6 +22,7 @@ public class Ex1_ArrayList
         System.out.println(al.size());
 
         System.out.println(al.isEmpty());    //false
+        System.out.println(al.contains("Amol"));
         System.out.println(al.get(2));
 
         //update data
@@ -70,7 +71,9 @@ public class Ex1_ArrayList
             System.out.println(litr.next());
         }
 
-
+        System.out.println("---");
+        al.clear();
+        System.out.println(al.size());
 
     }
 }
