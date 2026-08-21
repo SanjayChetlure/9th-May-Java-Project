@@ -1,5 +1,6 @@
 package S3_Collection;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.ListIterator;
 
@@ -74,6 +75,8 @@ public class Ex1_ArrayList
         System.out.println("---");
         al.clear();
         System.out.println(al.size());
+
+
 
     }
 }
